@@ -14,6 +14,10 @@
         <!--创建型-->
         <module>1_simple_factory</module>
         <module>2_factory_method</module>
+        <module>3_abstract_factory</module>
+        <module>4_builder</module>
+        <module>5_prototype</module>
+        <module>6_singleton</module>
 
 
     </modules>
