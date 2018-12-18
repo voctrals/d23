@@ -12,7 +12,8 @@
 
     <modules>
         <!--创建型-->
-        <module>1_abstract_factory</module>
+        <module>1_simple_factory</module>
+        <module>2_factory_method</module>
 
 
     </modules>
