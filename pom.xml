@@ -20,6 +20,7 @@
         <module>6_singleton</module>
         <!--结构型-->
         <module>7_adaptor</module>
+        <module>8_bridge</module>
 
     </modules>
 
