@@ -18,7 +18,8 @@
         <module>4_builder</module>
         <module>5_prototype</module>
         <module>6_singleton</module>
-
+        <!--结构型-->
+        <module>7_adaptor</module>
 
     </modules>
 
