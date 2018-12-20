@@ -21,6 +21,7 @@
         <!--结构型-->
         <module>7_adaptor</module>
         <module>8_bridge</module>
+        <module>9_composite</module>
 
     </modules>
 
