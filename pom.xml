@@ -24,6 +24,8 @@
         <module>9_composite</module>
         <module>10_facade</module>
         <module>11_decorator</module>
+        <module>12_flyweight</module>
+        <module>13_proxy</module>
 
     </modules>
 
