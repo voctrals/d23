@@ -17,6 +17,11 @@ public class Main {
                 new TestInterfaceInvocationHandler(new TestInterfaceImpl())
         );
 
+        TestInterface2 proxy1 = (TestInterface2) Proxy.newProxyInstance(TestInterface2Impl.class.getClassLoader(),
+                new Class[]{TestInterface2.class},
+                new TestInterface2InvocationHandler(new TestInterface2Impl())
+        );
+
         proxy.testAbility();
 
     }
