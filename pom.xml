@@ -14,9 +14,9 @@
         <!--创建型-->
         <module>1_simple_factory</module>
         <module>2_factory_method</module>
-        <module>3_abstract_factory</module>
-        <module>4_builder</module>
-        <module>5_prototype</module>
+        <module>3_abstract_factory</module><!--todo-->
+        <module>4_builder</module><!--todo-->
+        <module>5_prototype</module><!--todo-->
         <module>6_singleton</module>
         <!--结构型-->
         <module>7_adaptor</module>
@@ -24,9 +24,10 @@
         <module>9_composite</module>
         <module>10_facade</module>
         <module>11_decorator</module>
-        <module>12_flyweight</module>
+        <module>12_flyweight</module><!--todo-->
         <module>13_proxy</module>
-
+        <!--行为型-->
+        <module>14_responsibility_chain</module>
     </modules>
 
     <dependencies>
