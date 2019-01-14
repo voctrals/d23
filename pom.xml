@@ -28,6 +28,7 @@
         <module>13_proxy</module>
         <!--行为型-->
         <module>14_responsibility_chain</module>
+        <module>15_command</module>
     </modules>
 
     <dependencies>
