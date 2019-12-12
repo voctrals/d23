@@ -35,6 +35,7 @@
         <!--行为型-->
         <module>14_responsibility_chain</module>
         <module>15_command</module>
+        <module>16_observer</module>
     </modules>
 
     <dependencies>
