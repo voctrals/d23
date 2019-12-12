@@ -21,7 +21,7 @@ public class Subject extends Observable {
             this.status = data;
             setChanged();
         }
-        notifyObservers();
+        notifyObservers("anything");
     }
 
 }

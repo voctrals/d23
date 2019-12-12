@@ -15,6 +15,8 @@ public class Consumer implements Observer {
 
     @Override
     public void update(Observable o, Object arg) {
+        System.out.println(o);
+        System.out.println(arg);
         System.out.println("状态发生改变：" + ((Subject) o).getStatus());
     }
 
